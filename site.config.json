@@ -1,0 +1,26 @@
+{
+  "city": "Саратов",
+  "cityForms": {
+    "name": "Саратов",
+    "prepositional": "Саратове",
+    "genitive": "Саратова"
+  },
+  "region": "Саратовская область",
+  "domain": "vershina164.ru",
+  "pricingGroup": "ordinary",
+  "rates": [
+    150,
+    230,
+    370,
+    450,
+    280,
+    410,
+    500
+  ],
+  "minimumVisit": 6000,
+  "metrikaId": 114334719,
+  "webmasterVerification": "7e0eeffdd801b985",
+  "heroPath": "images/hero-vershina164.webp",
+  "ogPath": "images/og-vershina164.jpg",
+  "heroLandmark": "Саратовская государственная консерватория имени Л. В. Собинова"
+}
